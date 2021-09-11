@@ -1,0 +1,23 @@
+.topnav {
+    text-align: center;
+    font-size: 1em;
+    
+}
+.tophead {
+    text-align: center;
+    font-size: 2em;
+}
+
+.groove{
+    border-style: groove;
+    border-block: 1remsolid;
+    background-color:silver;
+}
+.filmler{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px; 
+    text-align: center; 
+}
+body {
+    background-color:gainsboro;
+}
